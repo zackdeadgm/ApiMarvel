@@ -1,0 +1,260 @@
+{
+    "apiName":"Animarvel",
+    "origin":"CDMX",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Capitana Marvel",
+            "releaseyear":"8 de Marzo de 2019",
+            "des":"Tiene poder de volar y capas de controlar energía cosmica",
+            "figure":"https://drive.google.com/uc?export=view&id=1yhuLyTwy_EzlUiTtmR_x5zvLxeEVbYja/"
+        },
+        {
+            "id":2,
+            "name":"Capitan America: El primer Vengador",
+            "releaseyear":"29 de Julio de 2011",
+            "des":"Una persona normal que al entrar al ejercito hacer experimentos con el y se vuelve el primer vengador",
+            "figure":"https://drive.google.com/uc?export=view&id=1_3apcmPdbJxI9W0bIUKfIrSoHrGLTvwo"    
+        },
+        {
+            "id":3,
+            "name":"Iron Man",
+            "releaseyear":"30 de Abril de 2008",
+            "des":"El hombre mas inteligente y exitoso del mundo empieza su vida de superheroe",
+            "figure":"https://drive.google.com/uc?export=view&id=1Tj1u70LZ6iKIzHg_-nGJtE_PB5_s7dNd/"        
+        },
+        {
+            "id":4,
+            "name":"Iron Man 2",
+            "releaseyear":"30 de Abril de 2010",
+            "des":"La secuela de airon-man 1 ",
+            "figure":"https://drive.google.com/uc?export=view&id=1j4E0UJl9niQ-rQTO4Z5lJPMM_Mb0yopE"  
+        },
+        {
+            "id":5,
+            "name":"El increible Hulk",
+            "releaseyear":"13 de Junio del 2008",
+            "des":"Un cientifico quiere super fuerza esperimenta con el mismo y se combierte en una vestia",
+            "figure":"https://drive.google.com/uc?export=view&id=1C2pfVF3uvOQODNi4U4ew3BHXBlM4E4AA"      
+        },
+        {
+            "id":6,
+            "name":"Thor",
+            "releaseyear":"29 de Abril del 2011",
+            "des":"El dios del trueno y toda su historia de como llega a la tierra",
+            "figure":"https://drive.google.com/uc?export=view&id=1jTC6fAQOo28WC91oncxJIYSB81bO-V6M"      
+        },
+        {
+            "id":7,
+            "name":"The Avengers",
+            "releaseyear":"27 de Abril de 2012",
+            "des":"Los mas grandes heroes se reunen por primera vez",
+            "figure":"https://drive.google.com/uc?export=view&id=1d4X8CQxWqh3Rk7NIDjBox61q3HyPTfZZ"      
+        },
+        {
+            "id":8,
+            "name":"Iron Man 3",
+            "releaseyear":"26 de Abril de 2013",
+            "des":"Toni Stark lucha contra una campaña de terroristas",
+            "figure":"https://drive.google.com/uc?export=view&id=1-N9bBLMeRzUj3SG1Ce_qmFyJHq3jentw"      
+        },
+        {
+            "id":9,
+            "name":"Thor: El Mundo Oscuro",
+            "releaseyear":"8 de Noviembre de 2013",
+            "des":"El amor de su vida esta en peligro, el tiene que salvarla de sus enemigos",
+            "figure":"https://drive.google.com/uc?export=view&id=1_Yc01-zioV7lgDypwCKuQKbuOsMRJoZ6"      
+        },
+        {
+            "id":10,
+            "name":"Capitan America: El soldado del Invierno",
+            "releaseyear":"4 de Abril de 2014",
+            "des":"El excolega del Capitan america esta vivo pero ahora es el enemigo",
+            "figure":"https://drive.google.com/uc?export=view&id=1-cAqSt-vjvx8OoKdYNZdbojum1a88Tpq"      
+        },
+        {
+            "id":11,
+            "name":"Guardianes de la Galaxia",
+            "releaseyear":"31 de Julio de 2014",
+            "des":"Una aventura en el espacio donde ladrones y personas con gran poder pelean por una gema del infinito",
+            "figure":"https://drive.google.com/uc?export=view&id=1qb28OoXCRwkiPlz3EoNXzEOkZZ7aKLd5"            
+        },
+        {
+            "id":12,
+            "name":"Guardianes de la Galaxia 2",
+            "releaseyear":"5 de Mayo de 2017",
+            "des":"Se revela que kilt tiene un padre y es un semidios pero tendra que destruir a su padre",
+            "figure":"https://drive.google.com/uc?export=view&id=17wVWZXBZxJnn0_Nn2vMsc4PhRFiqw-14"      
+        },
+        {
+            "id":13,
+            "name":"Avengers: La era de Ultron",
+            "releaseyear":"30 de Abril de 2015",
+            "des":"Los mas grandes heroes se reunen para acabar con una amenaza de robots",
+            "figure":"https://drive.google.com/uc?export=view&id=1bDbJZCX6MzZtigbGL8Fw4XaQZFdF1IOY"      
+        },
+        {
+            "id":14,
+            "name":"Ant-Man",
+            "releaseyear":"17 de Julio de 2015",
+            "des":"Gracias a un cientifico Scott tiene la habilidad de encojerse pero debe mantener el secreto",
+            "figure":"https://drive.google.com/uc?export=view&id=1EcI6F1in2-b2HDNxzR129dKWz0XZ4YNB"      
+        },
+        {
+            "id":15,
+            "name":"Capitan America: Civil War",
+            "releaseyear":"28 de Abril de 2016",
+            "des":"Una pelea entre el Capitan America y Irom-man hara que los vengadores se dividan en dos",
+            "figure":"https://drive.google.com/uc?export=view&id=1GOZ7m5sgvebuf8lqBQylvqEVYt0WqEhm"      
+        },
+        {
+            "id":16,
+            "name":"Viuda Negra",
+            "releaseyear":"29 de Junio de 2021",
+            "des":"Tras enseñar su pasado, la viuda negra se reencuentra con su hermana y destrullen la asociación en donde la entrenaron",
+            "figure":"https://drive.google.com/uc?export=view&id=1-vYe6aOT9uIpPVIcDbTXsRivw3TF3-ui"      
+        },
+        {
+            "id":17,
+            "name":"Spiderman: De regreso a casa",
+            "releaseyear":"7 de Julio de 2017",
+            "des":"Despues de estar con los vengadores Peter parker se enfrenta a un villano con la tecnologia de Toni Stark",
+            "figure":"https://drive.google.com/uc?export=view&id=1aNEIbv6B8x9-CGiswe9_NNhRKhba63Bm"     
+        },
+        {
+            "id":18,
+            "name":"Pantera Negra",
+            "releaseyear":"29 de Enero de 2018 ",
+            "des":"En un lugar muy legano y desconocido por la humanidad,hay una ciudad con mayor tecnologia antes vista",
+            "figure":"https://drive.google.com/uc?export=view&id=177gGCgAfre1gg3qmxw3bU5K190-SeG5J"      
+        },
+        {
+            "id":19,
+            "name":"Doctor Strange",
+            "releaseyear":"4 de Novienbre de 2016",
+            "des":"Despues de un grave accidente, y perder su carrera fue a un lugar donde lo sanarian y tuvo poderes para proteger un poder celestial de oponentes que querian ese poder para destruir el mundo",
+            "figure":"https://drive.google.com/uc?export=view&id=19F-7s6Mb8Fxteszb-d6G7PvBxEhGOXqV"      
+        },
+        {
+            "id":20,
+            "name":"Ant-Man y la avispa",
+            "releaseyear":"25 de Junio de 2018",
+            "des":"el regreso de Scott y su compañera la avispa, revelando un secreto del pasado ",
+            "figure":"https://drive.google.com/uc?export=view&id=1aUtWKWw-EX15-LG_IsnTCDVDC5ZbMzE7"      
+        },
+        {
+            "id":21,
+            "name":"Thor: Ragnarok",
+            "releaseyear":"3 de Noviembre de 2017",
+            "des":"La destrucción de Asgart por culpa del Ragnarok una legenda que no se podia evitar",
+            "figure":"https://drive.google.com/uc?export=view&id=10Db_c25vZP7TreLL2tm5mt8tq2qtzOvs"      
+        },
+        {
+            "id":22,
+            "name":"Avengers: Guerra Infinita",
+            "releaseyear":"27 de de Abril  de 2018",
+            "des":"Los vengadores deben impedir que Thanos junte las gemas del infinito si no sera el fin de medio planeta",
+            "figure":"https://drive.google.com/uc?export=view&id=1-xu0amwK7OXvYNgyia0sCQPO-vmhTy1J"      
+        },
+        {
+            "id":23,
+            "name":"Avenger: Fin del juego",
+            "releaseyear":"26 de Abril de 2019",
+            "des":"Después de los eventos devastadores de de Avengers:guerra infinita, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas",
+            "figure":"https://drive.google.com/uc?export=view&id=18W2QXVYHdshN_Rpdrre3fMVrDr8_PUlG"      
+        },
+        {
+            "id":24,
+            "name":"Spiderman: Lejos de casa",
+            "releaseyear":"4 de Julio de 2019",
+            "des":"Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+            "figure":"https://drive.google.com/uc?export=view&id=13Cl3GLHmutBtm_xSesI9AGuYKn-PzAes"      
+        },
+        {
+            "id":25,
+            "name":"Loki (Serie de television)",
+            "releaseyear":"9 de Junio de 2021",
+            "des":"Loki, el Dios de las Mentiras, se aleja de la sombra de su hermano para embarcarse en una aventura",
+            "figure":"https://drive.google.com/uc?export=view&id=12VYCP8ow6bTHejbYnU5n2S8dYqUMoB6_"      
+        },
+        {
+            "id":26,
+            "name":"Wandavisíon (Serie de television)",
+            "releaseyear":"15 de Enero de 2021",
+            "des":"Con vidas suburbanas idealizadas, los seres superpoderosos Wanda y Vision comienzan a sospechar que nada es lo que parece",
+            "figure":"https://drive.google.com/uc?export=view&id=12cIpLSz53Dd5QE1kuR_0-V8gPvp97iWV"      
+        },
+        {
+            "id":27,
+            "name":"Falcon y el Soldado del Invierno (Serie de television)",
+            "releaseyear":"19 de Marzo de 2021",
+            "des":"Falcon y Winter Soldier son un dúo diferente que se unen para una aventura internacional que pondrá a prueba sus habilidades de supervivencia, así como su paciencia",
+            "figure":"https://drive.google.com/uc?export=view&id=1fXwx-daoS9Ofe05EpRPCIf7DH5anpdbv"      
+        },
+        {
+            "id":28,
+            "name":"Spiderman: No way home",
+            "releaseyear":"17 de Diciembre de 2021",
+            "des":"Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter decide pedirle ayuda al Doctor Extraño para recuperar su vida. Pero algo sale mal y provoca una fractura en el multiverso",
+            "figure":"https://drive.google.com/uc?export=view&id=1utGs1vP1oPpiZwoSzY5mPD-iJrddbXdm"      
+        },
+        {
+            "id":29,
+            "name":"What if ? (Mini serie de television)",
+            "releaseyear":"11 de Agosto de 2021",
+            "des":"El espacio explora lo que sucedería si los principales momentos de las películas del Universo Cinematográfico de Marvel ocurrieran de manera diferente.",
+            "figure":"https://drive.google.com/uc?export=view&id=1R7bRXES_SZXwpMMCv5Ra8mQhOS8xBc2T"      
+        },
+        {
+            "id":30,
+            "name":"Shang-Chi y la Leyenda de los Diez Anillos",
+            "releaseyear":"2 de Septiembre de 2021",
+            "des":"El maestro de artes marciales Shang-Chi se enfrenta al pasado que creía haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos",
+            "figure":"https://drive.google.com/uc?export=view&id=1EzLCXWyh_-D9Sm0ynscC9VPAfoPpg_AS"      
+        },
+        {
+            "id":31,
+            "name":"Eternals",
+            "releaseyear":"5 de Noviembre de 2021",
+            "des":"Los Eternos son una raza de seres inmortales con poderes sobrehumanos que han vivido en secreto en la Tierra durante miles de años. Aunque nunca han intervenido en el destino de la población, ahora una amenaza se cierne sobre la humanidad",
+            "figure":"https://drive.google.com/uc?export=view&id=1EaBi6O5J4QnU4BHzodIBcDaKLB3x-nQA"      
+        },
+        {
+            "id":32,
+            "name":"Ojo de halcon (Serie de television)",
+            "releaseyear":"24 de Noviembre de 2021",
+            "des":"Clint Barton y Kate Bishop disparan flechas mientras evitan convertirse ellos mismos en el blanco cuando la situación cambia.",
+            "figure":"https://drive.google.com/uc?export=view&id=16UwlL9mxzkOhKu4ro-tYFuevKCDaNGl1"      
+        },
+        {
+            "id":33,
+            "name":"Moon Knight (Serie de television)",
+            "releaseyear":"30 de marzo de 2022",
+            "des":"La investigación de los misterios del antiguo Egipto desde el interior de un mismo cuerpo",
+            "figure":"https://drive.google.com/uc?export=view&id=1Y4g-rUkP67nlHDrqy3eYYdpeDZ-rBKMS"      
+        },
+        {
+            "id":34,
+            "name":"Doctor Strange: Un Universo de Locura",
+            "releaseyear":"6 de mayo de 2022",
+            "des":"El Dr. Stephen Strange abre un portal al multiverso al utilizar un hechizo prohibido. Ahora, su equipo debe enfrentarse a una amenaza que podría destruirlo todo.",
+            "figure":"https://drive.google.com/uc?export=view&id=15tyA9PpA60VuhK6p6u7mXviJj2AxcvWq"      
+        },
+        {
+            "id":35,
+            "name":"Ms. Marvel (Serie de television)",
+            "releaseyear":"8 de junio de 2022",
+            "des":"Kamala, una joven estadounidense musulmana, es fiel seguidora de las sagas de superhéroes, en especial de Capitán Marvel. Kamala siente que no encaja en su mundo, hasta que obtiene superpoderes como los héroes a los que admira",
+            "figure":"https://drive.google.com/uc?export=view&id=19OuMD0_scJQE2_N_3Hvaio_IPCFU_G8O"      
+        },
+        {
+            "id":36,
+            "name":"Thor: Amor y Trueno",
+            "releaseyear":"7 de julio de 2022",
+            "des":"Secuela de Thor: Ragnarok en la que el Dios del Trueno contará con Lady Thor como acompañante.",
+            "figure":"https://drive.google.com/uc?export=view&id=1M3iPH3dv4okiuOLOTidGVUiR-Arwdvcz"      
+        }
+        
+    ]
+}
